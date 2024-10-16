@@ -7,4 +7,7 @@ IGCSE : United World College South East Asia Dover Campus
 
 International Baccalaureate : United World College South East Asia Dover Campus
 
-Undergraduate (Current) : Bachelor of Science in Computer Science and Economics in Northeastern University.
+Undergraduate (Current) :
+- Bachelor of Science in Computer Science and Economics in Northeastern University.
+- Expected to graduate in 2028
+
